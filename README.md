@@ -1,4 +1,4 @@
-# Capstone Project Utilizing Machine Learning Models in Astrophysics
+# Capstone Project on Potential Black Hole Categorization Utilizing ML Models
 
 This repository, connected via Kaggle notebooks. Updates will reflect Kaggle's version upgrades.
 
