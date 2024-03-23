@@ -1,4 +1,4 @@
-# Capstone Project on Potential Black Hole Categorization Utilizing ML Models
+# Potential Black Hole Categorization Utilizing Machine Learning Models
 
 This repository, connected via Kaggle notebooks. Updates will reflect Kaggle's version upgrades.
 
