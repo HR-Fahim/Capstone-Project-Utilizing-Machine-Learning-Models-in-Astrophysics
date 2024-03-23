@@ -1,4 +1,4 @@
-# Potential Black Hole Categorization Utilizing Machine Learning Models
+# Potential Black Hole Categorization Utilizing ML Models
 
 This repository, connected via Kaggle notebooks. Updates will reflect Kaggle's version upgrades.
 
