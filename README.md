@@ -1,4 +1,4 @@
-# Capstone Project using Machine Learning Models in Astrophysics
+# Capstone Project Utilizing Machine Learning Models in Astrophysics
 
 This repository, connected via Kaggle notebooks. Updates will reflect Kaggle's version upgrades.
 
