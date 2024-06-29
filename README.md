@@ -1,5 +1,5 @@
-# Capstone Project on Astrophysics Utilizing ML Models
+# Capstone Project on Astrophysics Using ML Models
 
-This repository, connected via Kaggle notebooks. Updates will reflect Kaggle's version upgrades.
+This repository is connected via Kaggle notebooks. Updates will reflect Kaggle's version upgrades.
 
-<sub> ****P.S.*** The project was completed under CSE499-A and CSE499-B (Senior Design Project) course offered by North South University.*<sub/>
+<sub> ****P.S.*** The project was completed under CSE499-A and CSE499-B (Senior Design Project) courses offered by North South University.*<sub/>
